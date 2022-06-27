@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "firstName": "satyam",
+      "lastName": "kumar",
+      "dob": "2022-06-24",
+      "email": "satyam@gmail.com",
+      "phone": 4795649670,
+      "password": "sdfdfdd",
+      "gender": "female",
+      "id": 1
+    },
+    {
+      "firstName": "xyz",
+      "lastName": "xyz",
+      "dob": "2022-06-18",
+      "email": "xyz@gmail.com",
+      "phone": 6203872229,
+      "password": "34ldfkdnl",
+      "gender": "others",
+      "id": 2
+    },
+    {
+      "firstName": "sdsd",
+      "lastName": "sdsd",
+      "dob": "2022-06-03",
+      "email": "sdsdsdsd@gmail.com",
+      "phone": 3434334343,
+      "password": "3434343",
+      "gender": "others",
+      "id": 5
+    },
+    {
+      "firstName": "aditya",
+      "lastName": "sharma",
+      "dob": "2022-06-10",
+      "email": "adi@gmail.com",
+      "phone": 65879920938,
+      "password": "cvbcv34",
+      "gender": "male",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
